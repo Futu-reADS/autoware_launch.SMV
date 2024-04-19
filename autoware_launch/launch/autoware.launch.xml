@@ -29,7 +29,7 @@
   <!-- Control -->
   <arg name="check_external_emergency_heartbeat" default="false"/>
   <!-- Map -->
-  <arg name="lanelet2_map_file" default="okinawa_full_single_loop_fitted.osm" description="lanelet2 map file name"/>
+  <arg name="lanelet2_map_file" default="lanelet2_map_okinawa_loop_simple.osm" description="lanelet2 map file name"/>
   <arg name="pointcloud_map_file" default="okinawa_outside_clean.pcd" description="pointcloud map file name"/>
   <!-- System -->
   <arg name="system_run_mode" default="online" description="run mode in system"/>
